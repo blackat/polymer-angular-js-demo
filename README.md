@@ -1,4 +1,4 @@
-# Polymer AngulsJS Integration
+# Polymer AngularJS Integration
 
 The file `polymer-row-block.js` is a Polymer element that display the title of the block and a row element for each item in the array.
 
